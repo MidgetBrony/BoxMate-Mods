@@ -16,12 +16,14 @@
   ],
   "deprecatedMods": [
     {
+      "id": "boxroom-plus",
       "name": "[Deprecated] Boxroom Plus",
       "repository": "MidgetBrony/Boxroom-Plus",
       "replacement": "MidgetBrony/Boxroom-Platform-Icons",
       "reason": "Custom game launching, launch arguments, and case colors are now built into BOXROOM. Platform icons continue as BOXROOM Platform Icons."
     },
     {
+      "id": "boxroom-plus-posters",
       "name": "[Deprecated] Boxroom Plus Posters",
       "repository": "MidgetBrony/Boxroom-Plus-Posters",
       "replacement": "BOXROOM beta built-in custom posters",
