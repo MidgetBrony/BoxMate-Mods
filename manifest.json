@@ -9,7 +9,6 @@
     { "repository": "MidgetBrony/Boxroom-Platform-Icons", "recommended": true },
     { "repository": "MidgetBrony/Boxroom-MusicEX", "recommended": true },
     { "repository": "MidgetBrony/Boxroom-RadioStreams", "recommended": true },
-    { "repository": "MidgetBrony/Boxroom-Plus-Posters", "recommended": false },
     { "repository": "MidgetBrony/BoxroomMultiRoom", "recommended": false },
     { "repository": "MidgetBrony/BR-BookSystem", "recommended": false },
     { "repository": "MidgetBrony/BR-FamilyOwned", "recommended": false },
@@ -21,6 +20,12 @@
       "repository": "MidgetBrony/Boxroom-Plus",
       "replacement": "MidgetBrony/Boxroom-Platform-Icons",
       "reason": "Custom game launching, launch arguments, and case colors are now built into BOXROOM. Platform icons continue as BOXROOM Platform Icons."
+    },
+    {
+      "name": "[Deprecated] Boxroom Plus Posters",
+      "repository": "MidgetBrony/Boxroom-Plus-Posters",
+      "replacement": "BOXROOM beta built-in custom posters",
+      "reason": "Custom poster support is now built into BOXROOM."
     }
   ]
 }

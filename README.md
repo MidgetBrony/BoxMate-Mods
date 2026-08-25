@@ -9,6 +9,7 @@ Boxroom Books is intentionally excluded because BR-BookSystem replaces it. Boxro
 ## Deprecated mods
 
 - **[Deprecated] Boxroom Plus** — Custom game launching, launch arguments, and case colors are now built into BOXROOM. Its platform-icon feature continues as [BOXROOM Platform Icons](https://github.com/MidgetBrony/Boxroom-Platform-Icons).
+- **[Deprecated] Boxroom Plus Posters** — Custom poster support is now built into BOXROOM.
 
 Deprecated entries remain in `deprecatedMods` for catalogue history but are not offered as new installations.
 
