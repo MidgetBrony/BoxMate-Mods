@@ -16,7 +16,8 @@
     { "repository": "MidgetBrony/Boxroom-Cats", "recommended": false },
     { "repository": "MidgetBrony/BR-QImport", "recommended": true },
     { "repository": "MidgetBrony/Boxroom-Studio", "recommended": true },
-    { "repository": "MidgetBrony/SteamGridBox", "recommended": true }
+    { "repository": "MidgetBrony/SteamGridBox", "recommended": true },
+    { "repository": "MidgetBrony/Boxroom-TV", "recommended": true }
   ],
   "deprecatedMods": [
     {
