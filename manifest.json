@@ -13,6 +13,7 @@
     { "repository": "MidgetBrony/BR-BookSystem", "recommended": false },
     { "repository": "MidgetBrony/BR-FamilyOwned", "recommended": false },
     { "repository": "MidgetBrony/Boxroom-LocalWorkshop", "recommended": false },
+    { "repository": "MidgetBrony/Boxroom-Cats", "recommended": false },
     { "repository": "MidgetBrony/BR-QImport", "recommended": true },
     { "repository": "MidgetBrony/Boxroom-Studio", "recommended": true },
     { "repository": "MidgetBrony/SteamGridBox", "recommended": true }
