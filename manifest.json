@@ -15,6 +15,7 @@
     { "repository": "MidgetBrony/Boxroom-LocalWorkshop", "recommended": false },
     { "repository": "MidgetBrony/Boxroom-Cats", "recommended": false },
     { "repository": "MidgetBrony/BR-QImport", "recommended": true },
+    { "repository": "MidgetBrony/BR-GOGImport", "recommended": false, "experimental": true },
     { "repository": "MidgetBrony/Boxroom-Studio", "recommended": true },
     { "repository": "MidgetBrony/SteamGridBox", "recommended": true },
     { "repository": "MidgetBrony/Boxroom-TV", "recommended": true }
