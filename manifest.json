@@ -18,7 +18,8 @@
     { "repository": "MidgetBrony/BR-GOGImport", "recommended": false, "experimental": true },
     { "repository": "MidgetBrony/Boxroom-Studio", "recommended": true },
     { "repository": "MidgetBrony/SteamGridBox", "recommended": true },
-    { "repository": "MidgetBrony/Boxroom-TV", "recommended": true }
+    { "repository": "MidgetBrony/Boxroom-TV", "recommended": true },
+    { "repository": "MidgetBrony/BR-Libretro", "recommended": false, "experimental": true }
   ],
   "deprecatedMods": [
     {
