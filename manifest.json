@@ -20,7 +20,8 @@
     { "repository": "MidgetBrony/Boxroom-Studio", "recommended": true },
     { "repository": "MidgetBrony/SteamGridBox", "recommended": true },
     { "repository": "MidgetBrony/Boxroom-TV", "recommended": true },
-    { "repository": "MidgetBrony/BR-Libretro", "recommended": false, "experimental": true }
+    { "repository": "MidgetBrony/BR-Libretro", "recommended": false, "experimental": true },
+    { "repository": "MidgetBrony/Skateboard-Art", "recommended": false }
   ],
   "deprecatedMods": [
     {
