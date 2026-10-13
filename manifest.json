@@ -23,7 +23,8 @@
     { "repository": "MidgetBrony/BR-Libretro", "recommended": false, "experimental": true },
     { "repository": "MidgetBrony/Boxroom-VRScreen", "recommended": false, "experimental": true },
     { "repository": "MidgetBrony/Skateboard-Art", "recommended": false },
-    { "repository": "MidgetBrony/Boxroom-WallCalendar", "recommended": false }
+    { "repository": "MidgetBrony/Boxroom-WallCalendar", "recommended": false },
+    { "repository": "MidgetBrony/Standee-Studio", "recommended": true }
   ],
   "deprecatedMods": [
     {
