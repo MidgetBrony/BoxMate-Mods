@@ -4,6 +4,8 @@ This repository is BoxMate's built-in catalogue of generally available BOXROOM m
 
 BoxMate loads this root `manifest.json` automatically. Users can browse and install any listed mod without adding individual repository links. Required infrastructure such as ModsPanel and BR-MediaAPI is resolved from each mod's own manifest and installed automatically when needed.
 
+The catalogue also includes supported companion tools such as Material Maker, with platform-specific Windows and Linux releases installed through BoxMate.
+
 Boxroom Books is intentionally excluded because BR-BookSystem replaces it. Boxroom TV can be added after its upstream manifest is available.
 
 ## Deprecated mods
