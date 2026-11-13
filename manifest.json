@@ -29,6 +29,7 @@
     { "repository": "MidgetBrony/BR-SteamPress", "recommended": false },
     { "repository": "MidgetBrony/Boxroom-Smart-Loader", "recommended": false },
     { "repository": "MidgetBrony/Boxroom-QuickFill", "recommended": false },
+    { "repository": "MidgetBrony/Boxroom-ItchStand", "recommended": false },
     { "repository": "MidgetBrony/Material-Maker", "recommended": true }
   ],
   "deprecatedMods": [
