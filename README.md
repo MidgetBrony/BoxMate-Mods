@@ -6,11 +6,13 @@ BoxMate loads this root `manifest.json` automatically. Users can browse and inst
 
 The catalogue also includes supported companion tools such as Material Maker, with platform-specific Windows and Linux releases installed through BoxMate.
 
-Boxroom Books is intentionally excluded because BR-BookSystem replaces it. Boxroom TV can be added after its upstream manifest is available.
+Current visual additions include **BOXROOM Platform Icons**, which extends BOXROOM's native case-icon picker with platform and player-supplied icons, and **Achievement Plaques**, which adds configurable wall-mounted Steam completion and achievement displays.
+
+Boxroom Books is intentionally excluded because BR-BookSystem replaces it.
 
 ## Deprecated mods
 
-- **[Deprecated] Boxroom Plus** — Custom game launching, launch arguments, and case colors are now built into BOXROOM. Its platform-icon feature continues as [BOXROOM Platform Icons](https://github.com/MidgetBrony/Boxroom-Platform-Icons).
+- **[Deprecated] Boxroom Plus** — Custom game launching, launch arguments, and case colors are now built into BOXROOM. Its platform-icon feature continues as [BOXROOM Platform Icons](https://github.com/MidgetBrony/Boxroom-Platform-Icons), now using BOXROOM's native icon registry without replacing original genre icons.
 - **[Deprecated] Boxroom Plus Posters** — Custom poster support is now built into BOXROOM.
 
 Deprecated entries remain in `deprecatedMods` for catalogue history but are not offered as new installations.
